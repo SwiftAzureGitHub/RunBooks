@@ -27,8 +27,10 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"url": "https://08aca7f7-2f7b-4f7b-ba21-e3dc99783fd3.webhook.we.azure-automation.net/webhooks?token=nuZlgHIk5PUMbYy3TI6m63mnOhXLbPtkAQJCRvUFrC8%3d",
 					"method": "POST",
-					"timeout": "00:10:00"
+					"timeout": "00:10:00",
+					"reportStatusOnCallBack": true
 				}
 			}
 		],
